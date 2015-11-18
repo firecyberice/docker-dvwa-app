@@ -1,4 +1,10 @@
 Damn Vulnerable Web Application
+================================
+
+Please checkout: 
+
+- [gitrepo](https://github.com/RandomStorm/DVWA)
+- [website](http://dvwa.co.uk)
 
 to start DVWA just run
 
